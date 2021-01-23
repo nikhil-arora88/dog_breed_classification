@@ -27,3 +27,6 @@ scikit-learn==0.18.1
 pillow==4.0.0
 ipykernel==4.6.1
 tensorflow==1.0.0
+
+## Blog Post
+https://niksarster.medium.com/predicting-dog-breeds-using-cnns-211a4d542bca
